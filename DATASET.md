@@ -1,11 +1,11 @@
 # Dataset
 
-This project uses the Indiana University Chest X-Ray Collection — open access radiology images and reports sourced from the US National Library of Medicine OpenI system.
+This project uses the MIMIC-III Clinical Database Demo — anonymized ICU records from Beth Israel Deaconess Medical Center, Boston. Spanning 2001 to 2012.
 
 Kaggle Source
-https://www.kaggle.com/datasets/raddar/chest-xrays-indiana-university
+https://www.kaggle.com/datasets/asjad99/mimiciii
 
 Original Source
-https://openi.nlm.nih.gov/
+https://physionet.org/content/mimiciii-demo/1.4/
 
-License: CC BY-NC-ND 4.0
+License: CC0 Public Domain
